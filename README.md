@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dermacuser
-- 👀 I’m interested in Java, HTML and Bash.
-- 🌱 I’m currently learning HTML, Bash and Java.
+- 👀 I’m interested in Java, HTML and JS.
+- 🌱 I’m currently learning HTML, JS and Java.
 - 📚 I'm currently studying computerscience in Germany.
 - 📫 You can reach me on [twitter](https://twitter.com/dermacbenutzer)
