@@ -1,4 +1,4 @@
-Computerscience student from Germany.
+Computer science student from Germany.
 Mostly Minecraft related stuff.
 - Socials:
 [twitter](https://twitter.com/dermacbenutzer)
