@@ -1,5 +1,4 @@
 Computer science student from Germany.
-Mostly Minecraft related stuff.
 
 - Reach me:
 [Twitter](https://twitter.com/dermacbenutzer)
