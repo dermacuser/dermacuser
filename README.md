@@ -5,9 +5,11 @@ Mostly Minecraft related stuff.
 [LinkedIn](https://www.linkedin.com/in/justin-sievers-b38581261/)
 
 My Skills: 
+\n
 [![Skills](https://skills.thijs.gg/icons?i=java,html,js,css,php)](github.com/dermacuser)
 
 What I am still learning: 
+\n
 [![Skills](https://skills.thijs.gg/icons?i=c,docker,mysql,nodejs)](github.com/dermacuser)
 
 
