@@ -1,9 +1,10 @@
 Computer science student from Germany.
 Mostly Minecraft related stuff.
+
 - Reach me:
-<br />
 [Twitter](https://twitter.com/dermacbenutzer)
 <br />
+
 [LinkedIn](https://www.linkedin.com/in/justin-sievers-b38581261/)
 
 My Skills: 
