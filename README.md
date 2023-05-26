@@ -3,7 +3,6 @@ Mostly Minecraft related stuff.
 
 - Reach me:
 [Twitter](https://twitter.com/dermacbenutzer)
-<br />
 
 [LinkedIn](https://www.linkedin.com/in/justin-sievers-b38581261/)
 
